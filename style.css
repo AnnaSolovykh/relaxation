@@ -1,0 +1,68 @@
+#myVideo {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: -1;
+}
+
+
+
+#header {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    background-color: rgba(240, 248, 255, 0.311);
+    color: rgb(11, 3, 117);
+}
+
+#container {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(39, 17, 17);
+    text-align: center;
+
+}
+
+#button {
+    text-align: center;
+    border-radius: 15px;
+    padding: 20px;
+    font-size: 30px;
+    background-color: rgba(240, 248, 255, 0.311);
+    width: 40%;
+    font-family: 'Dancing Script', cursive;
+}
+
+#button:hover {
+    background: linear-gradient(to right, #5674c1ac, #f1eaea82);
+}
+    
+
+a { 
+    text-decoration: none;
+    color: rgb(39, 17, 17);
+}
+
+
+@media all and (max-width:500px) {
+
+    h1 {
+        font-size: 40px;
+    }
+
+    a {
+        font-size: 25px;
+    }
+}
