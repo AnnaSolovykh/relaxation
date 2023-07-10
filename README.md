@@ -1,5 +1,7 @@
 # Relaxation App with JavaScript 
-
+July, 2022 
+A project from JavaScript Portfolio - https://github.com/AnnaSolovykh/portfolio 
+<br/>
 Demo: https://relaxation-lac.vercel.app 
 <br/>
 On the main page you can find the links to the relaxation videos with waves and with flames featuring similar functionality. Let's examine it on the example of the waves.
