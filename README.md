@@ -1,5 +1,6 @@
 # Relaxation App with JavaScript 
 July, 2022 
+<br/>
 A project from JavaScript Portfolio - https://github.com/AnnaSolovykh/portfolio 
 <br/>
 Demo: https://relaxation-lac.vercel.app 
