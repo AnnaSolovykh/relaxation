@@ -18,7 +18,7 @@ You can also resume the timer.
 <br/>
 <img width="1584" alt="Screen Shot 2023-07-10 at 12 27 28" src="https://github.com/AnnaSolovykh/relaxation/assets/114008959/c5fa1308-a302-43de-84b0-7d9c9e3c04f4">
 <br/>
-When the time is over, you can start the timer again. There is also an icon to left to go back to the home page.
+When the time is over, you can start the timer again. There is also an icon to the left to go back to the home page.
 <br/>
 <img width="1573" alt="Screen Shot 2023-07-10 at 12 28 00" src="https://github.com/AnnaSolovykh/relaxation/assets/114008959/d838b9fc-5477-4618-a7dd-17d21b7018fd">
 <br/>
